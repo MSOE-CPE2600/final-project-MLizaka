@@ -1,4 +1,8 @@
-// ipc.c
+/**
+ * data.c
+ * andrew lizak
+ * 12/12/2024
+ */
 #include "data.h"
 #include <sys/ipc.h>
 #include <sys/shm.h>

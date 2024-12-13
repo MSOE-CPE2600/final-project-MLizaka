@@ -1,3 +1,8 @@
+/**
+ * vote.c
+ * andrew lizak
+ * 12/12/24
+ */
 #include "data.h"
 #include <sys/ipc.h>
 #include <sys/shm.h>
